@@ -1,0 +1,13 @@
+﻿{
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "phpoffice/phpspreadsheet": "^1.27",
+        "ext-gd": "*",
+        "ext-zip": "*"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
